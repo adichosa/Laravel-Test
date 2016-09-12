@@ -1,15 +1,14 @@
-# Laravel-Test
-A simple CRUD application using Laravel 5.2
+# <strong>Laravel-Test</strong>
+A simple CRUD application using <em>Laravel 5.2</em>
 
-
-Steps to install the application
+<b>Steps to install the application</b>
 <ol>
 <li>Decompress and upload all files to target directory gregorytest.rar.</li>
 <li>Import the database gregorydata.sql</li>
-<li>Copy all files inside /public folder into the default project folder.</li>
-<li>Remove folder /public.</li>
-<li>Edit file ./index.php,  add this line   
-      <p>use Illuminate\Contracts\Http\Kernel;  to the topmost line.</p>
+<li>Copy all files inside <code>/public</code> folder into the default project folder.</li>
+<li>Remove folder <code>/public</code>.</li>
+<li>Edit file <code>./index.php</code>,  add this line   
+      <p><code>use Illuminate\Contracts\Http\Kernel;</code>  to the topmost line.</p>
  <p> On the same file, look for line </p>
      <p> require __DIR__.'/../bootstrap/autoload.php';</p>
  <p> and replace it with</p>
