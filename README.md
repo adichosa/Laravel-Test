@@ -38,4 +38,4 @@ and replace it with
 <p>DB_PASSWORD=3te5D9vhTU</p></code></li>
 <li>Enjoy!</li>
 </ol>
-<a href="tickageekviral.blogspot.com">Viral Stuff and Trending News</a>
+<a href="tickageekviral.blogspot.com" target="_blank">Viral Stuff and Trending News</a>
