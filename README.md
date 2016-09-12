@@ -23,7 +23,7 @@ A simple CRUD application using <em>Laravel 5.2</em>
 <li>Edit file <code>/config/bootstrap.php</code> and locate line 
     <code>'url' => env('APP_URL', 'http://localhost'),</code>
 and replace it with
-'url' => env('APP_URL', 'http://[you_project_folder]/'),</li>
+<code>'url' => env('APP_URL', 'http://[you_project_folder]/'),</code></li>
 <li>Finally, .env file needs editing also<br /><code>
 <p>APP_ENV=local</p>
 <p>APP_DEBUG=true</p>
